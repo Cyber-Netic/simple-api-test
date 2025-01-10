@@ -1,9 +1,9 @@
-# Simple API Test
+# Simple API Testing
 
-This repository contains a beginner-friendly example of using Python for API testing.
+This project demonstrates basic API testing using Python and the Requests library. It tests a public API and validates the response.
 
 ## How to Run
-1. Install Python 3.x.
-2. Install the `requests` library:
+1. Clone the repository:
    ```bash
-   pip install requests
+   git clone https://github.com/yourusername/simple-api-testing.git
+   cd simple-api-testing
